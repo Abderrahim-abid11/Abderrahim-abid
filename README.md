@@ -4,7 +4,7 @@ I'm Abderrahim Abid, a Penetration Tester with a strong skill set in Linux, SQL,
 
 ### mailbox : Reach me out!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahim-abid-20a8a8298/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](phone:+212-632-473292) [![Gmail](mailto:https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abidabderrahim11@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahim-abid-20a8a8298/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](phone:+212-632-473292) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abidabderrahim11@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
 
 ### Abbderrahim Abid Blog :
 Welcome to the world of Abderrahim Abid, where cybersecurity meets innovation. On this blog, I share insights into my journey as a passionate Penetration Tester and Full Stack Developer. Join me as I explore the realms of Linux, SQL, Bash scripting, networking, and the art of web development using HTML, CSS, JavaScript, Django, and Python .
